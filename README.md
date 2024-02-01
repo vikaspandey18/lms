@@ -21,7 +21,7 @@ This is a Learning Management System (LMS) built using MongoDB, Express.js, Reac
 
 ### Steps
 1. Clone the repository: `git clone https://github.com/vikaspandey18/lms.git`
-2. Navigate into the directory: `cd yourrepository`
+2. Navigate into the directory: `cd vikaspandey18`
 3. Install the dependencies in both server as well as client: `npm install`
 4. Start the server: `npm start`
 5. Start the client server : `npm run dev`
