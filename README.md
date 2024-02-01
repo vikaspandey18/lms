@@ -20,7 +20,7 @@ This is a Learning Management System (LMS) built using MongoDB, Express.js, Reac
 - React Router 6.10 and above for routering in react
 
 ### Steps
-1. Clone the repository: `git clone https://github.com/yourusername/yourrepository.git`
+1. Clone the repository: `git clone https://github.com/vikaspandey18/lms.git`
 2. Navigate into the directory: `cd yourrepository`
 3. Install the dependencies in both server as well as client: `npm install`
 4. Start the server: `npm start`
